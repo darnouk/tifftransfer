@@ -1,2 +1,2 @@
 # tifftransfer
-Application for 
+Application for tiff transfer. Better description coming soon.
